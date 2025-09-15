@@ -8,33 +8,39 @@ Fraud Detection Model.ipynb → Jupyter Notebook with full code, including data 
 
 🚀 Features
 
-Data preprocessing and cleaning
+. Data preprocessing and cleaning
 
-Exploratory Data Analysis (EDA)
+. Exploratory Data Analysis (EDA)
 
-Feature selection and engineering
+. Feature selection and engineering
 
-Model training using machine learning algorithms
+. Model training using machine learning algorithms
 
-Evaluation using accuracy, precision, recall, F1-score, and confusion matrix
+. Evaluation using accuracy, precision, recall, F1-score, and confusion matrix
 
-Fraud vs. Non-Fraud classification
+. Fraud vs. Non-Fraud classification
 
 🛠️ Tech Stack
 
-Python
+. Python
 
-Jupyter Notebook
+. Jupyter Notebook
 
-Pandas, NumPy
+. Pandas, NumPy
 
-Matplotlib, Seaborn
+. Matplotlib, Seaborn
 
-Scikit-learn
+. Scikit-learn
 
 📊 Model Performance
 
 The notebook evaluates different models and provides visualizations of performance metrics to ensure reliability in fraud detection.
+
 📌 Use Case
 
 Fraud detection is crucial for banks, fintech, and e-commerce platforms to minimize financial losses and detect suspicious transactions in real-time.
+
+Run Online (Binder)
+## 🚀 Launch in Binder
+👉 [Click to Launch in Binder](https://hub.gesis.mybinder.org/user/ansh821-fraud-detection-ri3eq9tl/doc/tree/Fraud%20Detection%20Model.ipynb)
+
