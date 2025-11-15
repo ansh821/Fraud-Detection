@@ -42,5 +42,5 @@ Fraud detection is crucial for banks, fintech, and e-commerce platforms to minim
 
 Run Online (Binder)
 ## 🚀 Launch in Binder
-👉 [Click to Launch in Binder](https://hub.gesis.mybinder.org/user/ansh821-fraud-detection-ri3eq9tl/doc/tree/Fraud%20Detection%20Model.ipynb)
+👉 [Click to Launch in Binder](https://mybinder.org/v2/gh/ansh821/Fraud-Detection.git/main?urlpath=%2Fdoc%2Ftree%2FFraud+Detection+Model.ipynb)
 
